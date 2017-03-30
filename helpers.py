@@ -47,4 +47,4 @@ def closestNote(note):
 			closest_note = key
 
 	# Return base frequency and octave
-	return frequencies[closest_note], closest_octave
+	return frequencies[closest_note], closest_octave, closest_note

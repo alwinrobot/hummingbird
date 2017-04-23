@@ -1,4 +1,4 @@
-# hummingbird
+# Hummingbird
 
 A vst plugin with quick voice-to-midi melody conversion.  Hum or whistle a melody, and hummingbird will be able to create a midi track for you to use in your favorite DAW.
 
@@ -11,3 +11,8 @@ Ruben Madera
 Jose Vargas
 
 Aidan Pelisson
+
+# Dependencies
+
+
+# Installation 

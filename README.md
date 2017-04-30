@@ -11,3 +11,16 @@ Ruben Madera
 Jose Vargas
 
 Aidan Pelisson
+
+# Dependencies
+C++ 11
+Python 3.5.2
+LibAudio
+JUCE
+Aubio
+PyQT
+
+# Installation
+
+Just run the executable
+If you want to run the vst in a daw, just put the dll in the vst director for your daw and it'll be picked up automatically. 
